@@ -1,0 +1,6 @@
+{
+  "name": "JmkLoanApp - Mfumo wa Mikopo Tanzania",
+  "description": "Mfumo wa kisasa wa kusimamia mikopo ya P2P, vikundi, riba, sahihi ya kidijitali, wadhamini na marejesho Tanzania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
